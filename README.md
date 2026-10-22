@@ -947,7 +947,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
-<img width="940" height="174" alt="image" src="https://github.com/user-attachments/assets/b31fae22-168c-42c9-94e8-88b6a7069413" />
+<img width="496" height="245" alt="image" src="https://github.com/user-attachments/assets/aa33610a-789f-4708-88b0-fa447af1cb16" />
 
 cat forctype1.sh 
 ```bash
@@ -961,7 +961,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
-<img width="940" height="174" alt="image" src="https://github.com/user-attachments/assets/9b9ff07f-32aa-4bd9-ad76-55e8dd0a9380" />
+<img width="492" height="310" alt="image" src="https://github.com/user-attachments/assets/2d146244-2949-4fc2-bd27-b5d289f0f9ea" />
 
 cat fornested1.sh 
 ```bash
@@ -980,7 +980,7 @@ $ chmod 755 fornested1.sh
  
 $ ./fornested1.sh 
  ## OUTPUT
-<img width="940" height="174" alt="image" src="https://github.com/user-attachments/assets/09f435a9-3cf6-4ab2-af79-3195310f81d3" />
+<img width="542" height="223" alt="image" src="https://github.com/user-attachments/assets/09680f7d-b91b-4404-b072-faf3e77e1342" />
 
  
 cat forbreak.sh 
@@ -998,7 +998,7 @@ done
 echo "The for loop is completed“
 ```
 ## OUTPUT
-<img width="940" height="192" alt="image" src="https://github.com/user-attachments/assets/c22e6151-4d41-46a5-aa96-ac354da93f07" />
+<img width="761" height="276" alt="image" src="https://github.com/user-attachments/assets/9ae34e59-7657-4c2a-872d-d3f0002ba338" />
 
 $ chmod 755 forbreak.sh
  
@@ -1038,7 +1038,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
-<img width="940" height="118" alt="image" src="https://github.com/user-attachments/assets/f3ca8ec2-b987-4509-84f3-ffc7eafda07d" />
+<img width="877" height="172" alt="image" src="https://github.com/user-attachments/assets/657cf566-8424-421b-91f5-d5b825196613" />
 
 
  cat exread1.sh
@@ -1073,7 +1073,7 @@ fi
 ```
 ## OUTPUT
  ./funcex.sh 
-<img width="966" height="214" alt="image" src="https://github.com/user-attachments/assets/3802d4f1-f1be-42a2-b203-db2aac946c7c" />
+<img width="613" height="391" alt="image" src="https://github.com/user-attachments/assets/891f812a-a1dd-40f6-b966-d02eef980671" />
 
  
  ./funcex.sh 1 2
