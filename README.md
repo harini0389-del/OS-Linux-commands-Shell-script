@@ -472,7 +472,7 @@ chmod 755 my-script.sh
 ./my-script.sh
 ## OUTPUT
 
-<img width="940" height="34" alt="image" src="https://github.com/user-attachments/assets/9cbc0da4-ab2e-4f8b-a846-b44b09d26ce6" />
+<img width="713" height="42" alt="image" src="https://github.com/user-attachments/assets/103dcdd1-4c7b-4fd5-9938-e6ab80738b45" />
 
 
 
@@ -488,7 +488,7 @@ stop
 cat herecheck.txt
 ## OUTPUT
 
-<img width="702" height="222" alt="image" src="https://github.com/user-attachments/assets/14a21e8a-7b19-463d-9ae6-0c913407b1f0" />
+<img width="482" height="176" alt="image" src="https://github.com/user-attachments/assets/c10904c0-aceb-4bac-a6ac-4befc15c9d9f" />
 
 
 cat < scriptest.sh 
